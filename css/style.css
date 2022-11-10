@@ -2364,21 +2364,21 @@ fieldset:disabled a.btn {
 }
 
 .btn-primary {
-  color: rgba(255, 255, 255, 0);
-  background-color: #ffffff00;
-  border-color: #19437600;
+  color: #fff;
+  background-color: #194376;
+  border-color: #194376;
 }
 
 .btn-primary:hover {
-  color: rgba(255, 255, 255, 0);
-  background-color: #12315600;
-  border-color: #102b4c00;
+  color: #fff;
+  background-color: #123156;
+  border-color: #102b4c;
 }
 
 .btn-primary:focus, .btn-primary.focus {
-  color: rgba(255, 255, 255, 0);
-  background-color: #12315600;
-  border-color: #102b4c00;
+  color: #fff;
+  background-color: #123156;
+  border-color: #102b4c;
   box-shadow: 0 0 0 0.2rem rgba(60, 95, 139, 0.5);
 }
 
